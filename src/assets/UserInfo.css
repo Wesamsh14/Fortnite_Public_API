@@ -1,0 +1,38 @@
+.userinfo {
+    margin: 1%;
+}
+
+.date {
+    color: red;
+}
+
+.userdiv{
+    display: inline-block;
+    margin: 1%;
+}
+
+.Image {
+    width:200px;
+    height: 140px;
+    background-color: blueviolet;
+}
+
+.Image:hover {
+    width:400px;
+    height: 340px;
+    background-color: blueviolet;
+}
+
+.captial {
+    font-weight: bolder;
+}
+
+.itemImages {
+    width: 70px;
+    height: 70px;
+}
+
+.itemImages:hover {
+    width: 200px;
+    height: 200px;
+}

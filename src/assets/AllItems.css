@@ -1,0 +1,13 @@
+.items {
+    display: inline-block;
+}
+
+.span{
+    font-weight: bolder;
+}
+
+.itemImage {
+    width: 70px;
+    height: 70px;
+    background-color: blueviolet;
+}

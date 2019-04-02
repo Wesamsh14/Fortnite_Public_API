@@ -1,0 +1,18 @@
+.mainCards {
+    display: inline-block;
+    margin: 10px;
+}
+
+.cardsimages {
+    width: 150px;
+    height: 100px;
+    margin-left: 5%;
+    background-color: black; 
+
+}
+
+.cardsimages:hover {
+    width: 300px;
+    height: 250px;
+    margin-left: 5%; 
+}

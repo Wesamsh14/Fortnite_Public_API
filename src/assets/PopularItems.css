@@ -1,0 +1,28 @@
+.cardDiv{
+    width: 40%;
+    text-align: center;
+    margin: 1%;
+    border: 1px solid black;
+    display: inline-block;
+}
+
+.itemsDiv{
+    display: none;
+}
+
+.hour {
+    display: inline-block;
+    background-color: black;
+}
+.day {
+    display: inline-block;
+    background-color: black;
+}
+.week {
+    display: inline-block;
+    background-color: black;
+}
+.alltime {
+    display: inline-block;
+    background-color: black;
+}

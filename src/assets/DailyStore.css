@@ -1,0 +1,23 @@
+
+
+.cardDiv {
+    width: 400px;
+    height: auto;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.cardImage {
+    width: auto;
+    height: 50px;
+}
+
+.imagesSpan {
+    width: 10px;
+    height: 30px;
+}
+
+.itemImage {
+    width: 20px;
+    height: 40px;
+}
